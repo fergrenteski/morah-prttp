@@ -1,0 +1,12 @@
+[
+  { "id": "lav-01", "unidadeId": "un-0803", "maquina": "Lavadora 01", "iniciadoEm": "2026-08-30T08:00:00", "duracaoMin": 45, "concluido": true },
+  { "id": "lav-02", "unidadeId": "un-0803", "maquina": "Secadora 02", "iniciadoEm": "2026-08-30T09:00:00", "duracaoMin": 60, "concluido": true },
+  { "id": "lav-03", "unidadeId": "un-0803", "maquina": "Lavadora 03", "iniciadoEm": "2026-08-28T19:30:00", "duracaoMin": 45, "concluido": true },
+  { "id": "lav-04", "unidadeId": "un-0803", "maquina": "Lavadora 01", "iniciadoEm": "2026-08-26T07:15:00", "duracaoMin": 45, "concluido": true },
+  { "id": "lav-05", "unidadeId": "un-0803", "maquina": "Secadora 01", "iniciadoEm": "2026-08-25T21:00:00", "duracaoMin": 60, "concluido": true },
+  { "id": "lav-06", "unidadeId": "un-0803", "maquina": "Lavadora 02", "iniciadoEm": "2026-08-23T10:00:00", "duracaoMin": 45, "concluido": true },
+  { "id": "lav-07", "unidadeId": "un-0803", "maquina": "Lavadora 01", "iniciadoEm": "2026-08-21T18:20:00", "duracaoMin": 45, "concluido": true },
+  { "id": "lav-08", "unidadeId": "un-0803", "maquina": "Secadora 02", "iniciadoEm": "2026-08-20T20:00:00", "duracaoMin": 60, "concluido": true },
+  { "id": "lav-09", "unidadeId": "un-0803", "maquina": "Lavadora 03", "iniciadoEm": "2026-08-18T09:40:00", "duracaoMin": 45, "concluido": true },
+  { "id": "lav-10", "unidadeId": "un-0803", "maquina": "Lavadora 01", "iniciadoEm": "2026-08-16T08:10:00", "duracaoMin": 45, "concluido": true }
+]

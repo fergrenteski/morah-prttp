@@ -1,0 +1,36 @@
+{
+  "id": "faria-lima-corporate",
+  "name": "Faria Lima Corporate",
+  "initials": "FL",
+  "kind": "comercial",
+  "brand": {
+    "primary": "#1B4FA8",
+    "primaryStrong": "#143C81",
+    "secondary": "#0E7490",
+    "tint": "#EAF1FB",
+    "onPrimary": "#FFFFFF"
+  },
+  "plan": "completo",
+  "enabledModules": [
+    "inicio",
+    "financeiro",
+    "portaria",
+    "reservas",
+    "comunicados",
+    "ocorrencias",
+    "assembleia",
+    "manutencao",
+    "moradores",
+    "documentos",
+    "veiculos",
+    "cadastros-unidade",
+    "prestadores",
+    "funcionarios",
+    "garagem"
+  ],
+  "customFeatures": ["garagem-rotativa-corporativa"],
+  "rules": {
+    "slaHoras": { "baixa": 72, "media": 48, "alta": 24, "critica": 6 },
+    "reservaAntecedenciaMinimaHoras": 24
+  }
+}

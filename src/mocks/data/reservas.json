@@ -1,0 +1,35 @@
+[
+  {
+    "id": "res-01",
+    "areaId": "area-salao",
+    "areaNome": "Salão de Festas",
+    "data": "2026-09-06",
+    "horario": "16:00-21:00",
+    "status": "confirmada",
+    "unidadeId": "un-0803",
+    "solicitante": "Rafael Nunes",
+    "convidados": 35
+  },
+  {
+    "id": "res-02",
+    "areaId": "area-churrasqueira",
+    "areaNome": "Churrasqueira Gourmet",
+    "data": "2026-09-12",
+    "horario": "17:00-22:00",
+    "status": "pendente",
+    "unidadeId": "un-0803",
+    "solicitante": "Rafael Nunes",
+    "convidados": 12
+  },
+  {
+    "id": "res-03",
+    "areaId": "area-coworking",
+    "areaNome": "Espaço Coworking",
+    "data": "2026-08-25",
+    "horario": "13:00-18:00",
+    "status": "cancelada",
+    "unidadeId": "un-0803",
+    "solicitante": "Rafael Nunes",
+    "convidados": 4
+  }
+]

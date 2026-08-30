@@ -1,0 +1,6 @@
+[
+  { "id": "vag-01", "codigo": "G1-042", "bloco": "Subsolo 1", "empresa": "Nubank Filial FL", "precoHora": 12.0, "status": "disponivel", "anuncianteUnidade": "Torre · 1408" },
+  { "id": "vag-02", "codigo": "G1-051", "bloco": "Subsolo 1", "empresa": "Loft Advogados", "precoHora": 10.0, "status": "reservada", "anuncianteUnidade": "Torre · 0902" },
+  { "id": "vag-03", "codigo": "G2-118", "bloco": "Subsolo 2", "precoHora": 8.0, "status": "disponivel", "anuncianteUnidade": "Torre · 1201" },
+  { "id": "vag-04", "codigo": "G2-133", "bloco": "Subsolo 2", "empresa": "Studio Criativo", "precoHora": 9.5, "status": "ocupada", "anuncianteUnidade": "Torre · 0705" }
+]

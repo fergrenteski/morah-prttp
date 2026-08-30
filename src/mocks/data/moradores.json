@@ -1,0 +1,30 @@
+[
+  {
+    "id": "mor-01",
+    "nome": "Rafael Nunes",
+    "tipo": "proprietario",
+    "documento": "CPF 118.472.905-33",
+    "telefone": "(11) 98812-4477",
+    "unidadeId": "un-0803",
+    "unidadeLabel": "Bloco A · 803"
+  },
+  {
+    "id": "mor-02",
+    "nome": "Beatriz Nunes",
+    "tipo": "dependente",
+    "documento": "RG 45.881.220-9",
+    "telefone": "(11) 99640-1188",
+    "unidadeId": "un-0803",
+    "unidadeLabel": "Bloco A · 803",
+    "responsavelId": "mor-01"
+  },
+  {
+    "id": "mor-03",
+    "nome": "Diego Salles",
+    "tipo": "inquilino",
+    "documento": "CPF 402.117.660-01",
+    "telefone": "(11) 97722-5390",
+    "unidadeId": "un-0803",
+    "unidadeLabel": "Bloco A · 803"
+  }
+]

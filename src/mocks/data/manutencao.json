@@ -1,0 +1,5 @@
+[
+  { "id": "man-01", "titulo": "Limpeza da caixa d'água", "local": "Cobertura · Bloco A", "responsavel": "Limpa Sul Facilities", "status": "agendada", "agendadaPara": "2026-09-08" },
+  { "id": "man-02", "titulo": "Dedetização das áreas comuns", "local": "Subsolo e garagem", "responsavel": "Zeladoria", "status": "em_execucao", "agendadaPara": "2026-08-30" },
+  { "id": "man-03", "titulo": "Revisão do gerador de emergência", "local": "Casa de máquinas", "responsavel": "PowerGen Serviços", "status": "concluida", "agendadaPara": "2026-08-14" }
+]

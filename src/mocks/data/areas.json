@@ -1,0 +1,26 @@
+[
+  {
+    "id": "area-salao",
+    "nome": "Salão de Festas",
+    "capacidade": 60,
+    "horarios": ["10:00-15:00", "16:00-21:00", "22:00-02:00"]
+  },
+  {
+    "id": "area-churrasqueira",
+    "nome": "Churrasqueira Gourmet",
+    "capacidade": 20,
+    "horarios": ["11:00-16:00", "17:00-22:00"]
+  },
+  {
+    "id": "area-coworking",
+    "nome": "Espaço Coworking",
+    "capacidade": 12,
+    "horarios": ["08:00-12:00", "13:00-18:00"]
+  },
+  {
+    "id": "area-quadra",
+    "nome": "Quadra Poliesportiva",
+    "capacidade": 10,
+    "horarios": ["07:00-09:00", "18:00-20:00", "20:00-22:00"]
+  }
+]

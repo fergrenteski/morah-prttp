@@ -1,0 +1,38 @@
+[
+  {
+    "id": "com-01",
+    "titulo": "Manutenção programada dos elevadores",
+    "corpo": "Os elevadores sociais do Bloco A passarão por manutenção preventiva na terça-feira, das 9h às 12h. Utilize o elevador de serviço nesse período.",
+    "tipo": "manutencao",
+    "autor": "Administração",
+    "publicadoEm": "2026-08-29T08:30:00",
+    "fixado": true
+  },
+  {
+    "id": "com-02",
+    "titulo": "Assembleia geral ordinária · Setembro",
+    "corpo": "Convocamos todos os condôminos para a AGO no dia 15/09, às 19h, no salão de festas. Pauta: aprovação de contas e obras da fachada.",
+    "tipo": "evento",
+    "autor": "Síndica Helena Prado",
+    "publicadoEm": "2026-08-28T18:00:00",
+    "fixado": true
+  },
+  {
+    "id": "com-03",
+    "titulo": "Reforço na segurança da garagem",
+    "corpo": "Reforçamos que o portão da garagem deve permanecer fechado. Não permita a entrada de veículos desconhecidos por cortesia.",
+    "tipo": "urgente",
+    "autor": "Administração",
+    "publicadoEm": "2026-08-26T21:15:00",
+    "fixado": false
+  },
+  {
+    "id": "com-04",
+    "titulo": "Coleta seletiva agora às sextas",
+    "corpo": "A coleta de recicláveis passa a ser feita às sextas-feiras. Separe o material no depósito do subsolo.",
+    "tipo": "aviso",
+    "autor": "Zeladoria",
+    "publicadoEm": "2026-08-24T13:40:00",
+    "fixado": false
+  }
+]

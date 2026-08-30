@@ -1,0 +1,6 @@
+[
+  { "id": "fun-01", "nome": "Márcia Lopes", "cargo": "Porteira", "turno": "Diurno · 6h-14h", "admissao": "2021-05-03" },
+  { "id": "fun-02", "nome": "José Ferreira", "cargo": "Porteiro", "turno": "Noturno · 22h-6h", "admissao": "2019-11-18" },
+  { "id": "fun-03", "nome": "Antônio Silva", "cargo": "Zelador", "turno": "Diurno · 7h-16h", "admissao": "2018-02-01" },
+  { "id": "fun-04", "nome": "Cleusa Martins", "cargo": "Auxiliar de limpeza", "turno": "Diurno · 8h-17h", "admissao": "2022-09-12" }
+]

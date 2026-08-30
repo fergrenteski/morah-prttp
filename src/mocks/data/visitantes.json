@@ -1,0 +1,39 @@
+[
+  {
+    "id": "vis-01",
+    "nome": "Carlos Menezes",
+    "documento": "RG 22.485.109-7",
+    "unidadeId": "un-0803",
+    "unidadeLabel": "Bloco A · 803",
+    "previsto": "2026-08-30T14:00:00",
+    "status": "esperado",
+    "observacao": "Manutenção do ar-condicionado"
+  },
+  {
+    "id": "vis-02",
+    "nome": "Fernanda Ribeiro",
+    "documento": "CPF 341.220.118-04",
+    "unidadeId": "un-1201",
+    "unidadeLabel": "Bloco A · 1201",
+    "previsto": "2026-08-30T19:30:00",
+    "status": "esperado"
+  },
+  {
+    "id": "vis-03",
+    "nome": "iFood · Pedro",
+    "documento": "Entregador",
+    "unidadeId": "un-0502",
+    "unidadeLabel": "Bloco B · 502",
+    "previsto": "2026-08-29T20:10:00",
+    "status": "no_predio"
+  },
+  {
+    "id": "vis-04",
+    "nome": "Juliana Alves",
+    "documento": "RG 30.112.884-1",
+    "unidadeId": "un-0803",
+    "unidadeLabel": "Bloco A · 803",
+    "previsto": "2026-08-28T10:00:00",
+    "status": "saiu"
+  }
+]

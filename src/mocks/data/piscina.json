@@ -1,0 +1,25 @@
+[
+  {
+    "moradorId": "mor-01",
+    "moradorNome": "Rafael Nunes",
+    "unidadeLabel": "Bloco A · 803",
+    "atestadoStatus": "valido",
+    "atestadoValidade": "2026-12-01",
+    "liberado": true
+  },
+  {
+    "moradorId": "mor-02",
+    "moradorNome": "Beatriz Nunes",
+    "unidadeLabel": "Bloco A · 803",
+    "atestadoStatus": "vencido",
+    "atestadoValidade": "2026-06-15",
+    "liberado": false
+  },
+  {
+    "moradorId": "mor-03",
+    "moradorNome": "Diego Salles",
+    "unidadeLabel": "Bloco A · 803",
+    "atestadoStatus": "ausente",
+    "liberado": false
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "pet-01",
+    "nome": "Thor",
+    "especie": "Cão",
+    "raca": "Golden Retriever",
+    "porte": "grande",
+    "unidadeId": "un-0803",
+    "vacinas": [
+      { "nome": "Antirrábica", "aplicadaEm": "2026-02-10", "validade": "2027-02-10" },
+      { "nome": "V10 (Múltipla)", "aplicadaEm": "2026-02-10", "validade": "2027-02-10" }
+    ]
+  },
+  {
+    "id": "pet-02",
+    "nome": "Mia",
+    "especie": "Gato",
+    "raca": "SRD",
+    "porte": "pequeno",
+    "unidadeId": "un-0803",
+    "vacinas": [
+      { "nome": "Antirrábica", "aplicadaEm": "2025-09-01", "validade": "2026-09-01" }
+    ]
+  }
+]

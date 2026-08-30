@@ -1,0 +1,27 @@
+[
+  {
+    "id": "enq-01",
+    "titulo": "Aprovação da obra de pintura da fachada",
+    "descricao": "Rateio extra de 6 parcelas para revitalização completa da fachada dos blocos A e B.",
+    "encerraEm": "2026-09-15T19:00:00",
+    "aberta": true,
+    "votos": { "sim": 38, "nao": 11, "abstencao": 6 }
+  },
+  {
+    "id": "enq-02",
+    "titulo": "Instalação de câmeras no playground",
+    "descricao": "Colocação de 3 câmeras de segurança na área de lazer infantil.",
+    "encerraEm": "2026-09-05T19:00:00",
+    "aberta": true,
+    "votos": { "sim": 52, "nao": 3, "abstencao": 4 }
+  },
+  {
+    "id": "enq-03",
+    "titulo": "Mudança do horário da coleta seletiva",
+    "descricao": "Alterar a coleta de recicláveis de sábado para sexta-feira.",
+    "encerraEm": "2026-08-20T19:00:00",
+    "aberta": false,
+    "votos": { "sim": 44, "nao": 8, "abstencao": 12 },
+    "meuVoto": "sim"
+  }
+]

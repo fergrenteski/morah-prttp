@@ -1,0 +1,7 @@
+[
+  { "id": "doc-01", "titulo": "Convenção do Condomínio", "categoria": "convencao", "atualizadoEm": "2024-03-11", "tamanho": "2.4 MB" },
+  { "id": "doc-02", "titulo": "Regulamento Interno", "categoria": "regulamento", "atualizadoEm": "2025-11-02", "tamanho": "890 KB" },
+  { "id": "doc-03", "titulo": "Ata da Assembleia · Julho/2026", "categoria": "ata", "atualizadoEm": "2026-07-16", "tamanho": "512 KB" },
+  { "id": "doc-04", "titulo": "Balancete Financeiro · Julho/2026", "categoria": "balancete", "atualizadoEm": "2026-08-05", "tamanho": "1.1 MB" },
+  { "id": "doc-05", "titulo": "Balancete Financeiro · Junho/2026", "categoria": "balancete", "atualizadoEm": "2026-07-05", "tamanho": "1.0 MB" }
+]

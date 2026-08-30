@@ -1,0 +1,30 @@
+[
+  {
+    "id": "enc-01",
+    "transportadora": "Correios · PAC",
+    "codigo": "OY482910233BR",
+    "unidadeId": "un-0803",
+    "unidadeLabel": "Bloco A · 803",
+    "recebidaEm": "2026-08-29T11:20:00",
+    "status": "recebida"
+  },
+  {
+    "id": "enc-02",
+    "transportadora": "Amazon Logistics",
+    "codigo": "TBA309882771",
+    "unidadeId": "un-1201",
+    "unidadeLabel": "Bloco A · 1201",
+    "recebidaEm": "2026-08-29T16:45:00",
+    "status": "recebida"
+  },
+  {
+    "id": "enc-03",
+    "transportadora": "Mercado Livre",
+    "codigo": "ML-88213774",
+    "unidadeId": "un-0502",
+    "unidadeLabel": "Bloco B · 502",
+    "recebidaEm": "2026-08-27T09:05:00",
+    "status": "retirada",
+    "retiradaPor": "Morador · 502"
+  }
+]

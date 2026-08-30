@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bol-2608",
+    "competencia": "2026-08",
+    "descricao": "Taxa condominial · Agosto",
+    "valor": 1284.9,
+    "vencimento": "2026-09-10",
+    "status": "aberto",
+    "linhaDigitavel": "34191.79001 01043.510047 91020.150008 8 98110000128490",
+    "unidadeId": "un-0803",
+    "itens": [
+      { "rotulo": "Rateio ordinário", "valor": 980.0 },
+      { "rotulo": "Fundo de reserva", "valor": 196.0 },
+      { "rotulo": "Consumo de água", "valor": 108.9 }
+    ]
+  },
+  {
+    "id": "bol-2607",
+    "competencia": "2026-07",
+    "descricao": "Taxa condominial · Julho",
+    "valor": 1251.4,
+    "vencimento": "2026-08-10",
+    "status": "vencido",
+    "linhaDigitavel": "34191.79001 01043.510047 91020.150008 8 98090000125140",
+    "unidadeId": "un-0803",
+    "itens": [
+      { "rotulo": "Rateio ordinário", "valor": 980.0 },
+      { "rotulo": "Fundo de reserva", "valor": 196.0 },
+      { "rotulo": "Consumo de água", "valor": 75.4 }
+    ]
+  },
+  {
+    "id": "bol-2606",
+    "competencia": "2026-06",
+    "descricao": "Taxa condominial · Junho",
+    "valor": 1233.0,
+    "vencimento": "2026-07-10",
+    "status": "pago",
+    "linhaDigitavel": "34191.79001 01043.510047 91020.150008 8 98080000123300",
+    "unidadeId": "un-0803",
+    "itens": [
+      { "rotulo": "Rateio ordinário", "valor": 980.0 },
+      { "rotulo": "Fundo de reserva", "valor": 196.0 },
+      { "rotulo": "Consumo de água", "valor": 57.0 }
+    ]
+  },
+  {
+    "id": "bol-extra-01",
+    "competencia": "2026-08",
+    "descricao": "Rateio extra · Pintura da fachada",
+    "valor": 420.0,
+    "vencimento": "2026-09-20",
+    "status": "aberto",
+    "linhaDigitavel": "34191.79001 01043.510047 91020.150008 8 98120000042000",
+    "unidadeId": "un-0803",
+    "itens": [{ "rotulo": "Parcela 1/6 · Fachada", "valor": 420.0 }]
+  }
+]

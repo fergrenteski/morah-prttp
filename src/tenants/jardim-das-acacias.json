@@ -1,0 +1,36 @@
+{
+  "id": "jardim-das-acacias",
+  "name": "Jardim das Acácias",
+  "initials": "JA",
+  "kind": "residencial",
+  "brand": {
+    "primary": "#1E7A4C",
+    "primaryStrong": "#17603C",
+    "secondary": "#B45309",
+    "tint": "#E9F4EE",
+    "onPrimary": "#FFFFFF"
+  },
+  "plan": "basico_mais_addons",
+  "enabledModules": [
+    "inicio",
+    "financeiro",
+    "portaria",
+    "reservas",
+    "comunicados",
+    "ocorrencias",
+    "assembleia",
+    "moradores",
+    "documentos",
+    "pets",
+    "marketplace-desapegos",
+    "lavanderia",
+    "piscina"
+  ],
+  "customFeatures": ["piscina-com-atestado"],
+  "rules": {
+    "slaHoras": { "baixa": 96, "media": 48, "alta": 24, "critica": 8 },
+    "lavanderiaCiclosInclusos": 8,
+    "lavanderiaValorExcedente": 12.5,
+    "reservaAntecedenciaMinimaHoras": 12
+  }
+}

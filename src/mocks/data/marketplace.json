@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mkt-01",
+    "titulo": "Bicicleta aro 29 Caloi",
+    "descricao": "Seminova, 21 marchas, pouco uso. Retirada no bloco A.",
+    "preco": 650.0,
+    "categoria": "Esportes",
+    "vendedor": "Rafael Nunes",
+    "unidadeLabel": "Bloco A · 803",
+    "status": "ativo",
+    "publicadoEm": "2026-08-28T14:00:00"
+  },
+  {
+    "id": "mkt-02",
+    "titulo": "Berço de madeira",
+    "descricao": "Doação. Em ótimo estado, com colchão.",
+    "preco": 0,
+    "categoria": "Bebês",
+    "vendedor": "Condômina 502",
+    "unidadeLabel": "Bloco B · 502",
+    "status": "reservado",
+    "publicadoEm": "2026-08-27T10:30:00"
+  },
+  {
+    "id": "mkt-03",
+    "titulo": "Sofá 3 lugares retrátil",
+    "descricao": "Cor cinza, tecido suede. Precisa de limpeza.",
+    "preco": 900.0,
+    "categoria": "Móveis",
+    "vendedor": "Condômino 1104",
+    "unidadeLabel": "Bloco A · 1104",
+    "status": "em_moderacao",
+    "publicadoEm": "2026-08-30T09:10:00"
+  },
+  {
+    "id": "mkt-04",
+    "titulo": "Coleção de livros infantis",
+    "descricao": "20 títulos, capa dura.",
+    "preco": 120.0,
+    "categoria": "Livros",
+    "vendedor": "Beatriz Nunes",
+    "unidadeLabel": "Bloco A · 803",
+    "status": "em_moderacao",
+    "publicadoEm": "2026-08-30T11:40:00"
+  }
+]

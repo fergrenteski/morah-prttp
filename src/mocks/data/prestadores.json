@@ -1,0 +1,6 @@
+[
+  { "id": "pre-01", "nome": "PortõesTech Automação", "servico": "Manutenção de portões", "contrato": "CT-2025-014", "vigenciaAte": "2026-12-31", "avaliacao": 4.6 },
+  { "id": "pre-02", "nome": "Limpa Sul Facilities", "servico": "Limpeza e conservação", "contrato": "CT-2024-008", "vigenciaAte": "2026-10-15", "avaliacao": 4.1 },
+  { "id": "pre-03", "nome": "HydroFix Hidráulica", "servico": "Encanamento e caça-vazamentos", "contrato": "CT-2026-003", "vigenciaAte": "2027-03-01", "avaliacao": 4.8 },
+  { "id": "pre-04", "nome": "GreenGarden Paisagismo", "servico": "Jardinagem", "contrato": "CT-2025-021", "vigenciaAte": "2026-09-30", "avaliacao": 3.9 }
+]

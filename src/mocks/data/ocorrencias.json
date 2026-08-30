@@ -1,0 +1,71 @@
+[
+  {
+    "id": "oco-01",
+    "titulo": "Vazamento na garagem do subsolo",
+    "descricao": "Há infiltração constante próxima à vaga 42. A água escorre pela parede e forma poça no piso.",
+    "categoria": "Hidráulica",
+    "prioridade": "critica",
+    "status": "aberta",
+    "abertaEm": "2026-08-29T22:10:00",
+    "unidadeId": "un-0803",
+    "autor": "Rafael Nunes",
+    "comentarios": [
+      {
+        "id": "cmt-1",
+        "autor": "Síndica Helena Prado",
+        "texto": "Acionei o encanador, previsão de visita hoje à tarde.",
+        "em": "2026-08-30T08:20:00"
+      }
+    ]
+  },
+  {
+    "id": "oco-02",
+    "titulo": "Lâmpada queimada no corredor do 8º",
+    "descricao": "A luminária próxima ao apto 803 está piscando e apagou de vez.",
+    "categoria": "Elétrica",
+    "prioridade": "media",
+    "status": "em_andamento",
+    "abertaEm": "2026-08-28T19:45:00",
+    "unidadeId": "un-0803",
+    "autor": "Rafael Nunes",
+    "comentarios": []
+  },
+  {
+    "id": "oco-03",
+    "titulo": "Barulho excessivo após as 23h",
+    "descricao": "Som alto vindo da unidade vizinha em noites de semana.",
+    "categoria": "Convivência",
+    "prioridade": "alta",
+    "status": "aberta",
+    "abertaEm": "2026-08-27T23:50:00",
+    "unidadeId": "un-1104",
+    "autor": "Condômino 1104",
+    "comentarios": [
+      {
+        "id": "cmt-2",
+        "autor": "Portaria",
+        "texto": "Notificamos a unidade responsável verbalmente.",
+        "em": "2026-08-28T00:15:00"
+      }
+    ]
+  },
+  {
+    "id": "oco-04",
+    "titulo": "Portão da entrada lento para fechar",
+    "descricao": "O portão social demora cerca de 20s para fechar, comprometendo a segurança.",
+    "categoria": "Segurança",
+    "prioridade": "alta",
+    "status": "resolvida",
+    "abertaEm": "2026-08-22T10:30:00",
+    "unidadeId": "un-1201",
+    "autor": "Síndica Helena Prado",
+    "comentarios": [
+      {
+        "id": "cmt-3",
+        "autor": "Prestador · PortõesTech",
+        "texto": "Mola hidráulica substituída. Tempo de fechamento normalizado.",
+        "em": "2026-08-24T15:00:00"
+      }
+    ]
+  }
+]

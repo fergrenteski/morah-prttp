@@ -1,0 +1,5 @@
+[
+  { "id": "vec-01", "placa": "FLA-2C19", "modelo": "Toyota Corolla", "cor": "Prata", "unidadeLabel": "Bloco A · 803", "tag": "TAG-88213", "tagAtiva": true },
+  { "id": "vec-02", "placa": "BRA-9K02", "modelo": "Jeep Compass", "cor": "Branco", "unidadeLabel": "Bloco A · 1201", "tag": "TAG-88410", "tagAtiva": true },
+  { "id": "vec-03", "placa": "SPX-4477", "modelo": "Honda HR-V", "cor": "Cinza", "unidadeLabel": "Bloco B · 502", "tag": "TAG-88512", "tagAtiva": false }
+]
